@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "671863259361",
+    "project_id": "instatask-be981",
+    "storage_bucket": "instatask-be981.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:671863259361:android:972ea9b3e43eb3afef77a0",
+        "android_client_info": {
+          "package_name": "com.instagram_clone_test_task"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "671863259361-fvqrcrncggb85gt37q5a2s9f2asdc4f7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAIflG5GEtI1EMsr8pvemjofCxDCOdPI5E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "671863259361-fvqrcrncggb85gt37q5a2s9f2asdc4f7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
